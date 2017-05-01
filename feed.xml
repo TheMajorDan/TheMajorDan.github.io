@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MajorDan</title>
+    <atom:link href="http://TheMajorDan.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://TheMajorDan.github.io</link>
+    <description>Give me liberty, or give me death!</description>
+    <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Temp</title>
+      <link>http://TheMajorDan.github.io/articles/another-test/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://TheMajorDan.github.io/articles/another-test/</guid>
+      <author></author>
+      <description>&lt;h2 id=&quot;this-is-cool&quot;&gt;This is cool&lt;/h2&gt;
+</description>
+    </item>
+  </channel>
+</rss>
